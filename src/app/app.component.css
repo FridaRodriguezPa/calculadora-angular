@@ -1,0 +1,17 @@
+
+h1{
+    text-align: center;
+    color: powderblue;
+    font-size: 80px;
+}
+label{
+    font-size: 30px;
+    padding: 2px;
+}
+input{
+    padding: 2px;
+}
+p{
+    font-size: 30px;
+    padding: 2px;
+}
